@@ -1,3 +1,5 @@
+
+# 2025.2.22
 str = 'Now I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.'
 
 strs = []
@@ -12,3 +14,4 @@ for word in str:
 strs.append(total)
 
 print(strs)
+# 正規表現で書き直す
